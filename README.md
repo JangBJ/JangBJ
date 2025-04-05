@@ -4,7 +4,7 @@
 > - Robert C. Martin
 
 안녕하세요. 백엔드 개발자 JangBJ입니다.  
-사용자와 동료 개발자 모두에게 친절한 시스템을 만들기 위해 고민합니다.
+사용자와 동료 개발자 모두에게 친숙하고 사용하기 쉬운 시스템을 만들기 위해 고민합니다.
 
 ## ⚙️ Skills
 Java | Spring | C++ | MySQL | Git
@@ -12,9 +12,9 @@ Java | Spring | C++ | MySQL | Git
 ## 📂 Projects
 - **Ulverse** – 커머스 백엔드 시스템
 - **Collection** – 자료구조 정리
-- **Blog** – 학습 블로그 시스템
+- **Blog** – 블로그 시스템
 
-📫 email@example.com
+📫 qudwnd1001@gmail.com
 
 ---
 
