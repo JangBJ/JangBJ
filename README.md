@@ -22,7 +22,7 @@
 - **Blog** – 블로그 시스템
 - **Algorithm** - 자료구조 적응 연습
 
-📫 qudwnd1001@gmail.com
+📫   qudwnd1001@gmail.com
 
 ---
 
