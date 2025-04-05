@@ -1,9 +1,20 @@
-# 안녕하세요! 👋 저는 Backend 개발자 BJ 입니다.
+# JangBJ
 
-🌱 요즘 공부하는 것: Java, SpringBoot
-💬 관심 있는 기술: 클린 코드, 백엔드 아키텍처
-📫 연락처: qudwnd1001@gmail.com
-🛠️ 사용 기술: Java, Spring Boot, C++, MySQL, oracle  
+> "코드는 사람을 위해 작성되어야 한다."  
+> - Robert C. Martin
+
+안녕하세요. 백엔드 개발자 JangBJ입니다.  
+사용자와 동료 개발자 모두에게 친절한 시스템을 만들기 위해 고민합니다.
+
+## ⚙️ Skills
+Java | Spring | C++ | MySQL | Git
+
+## 📂 Projects
+- **Ulverse** – 커머스 백엔드 시스템
+- **Collection** – 자료구조 정리
+- **Blog** – 학습 블로그 시스템
+
+📫 email@example.com
 
 ---
 
