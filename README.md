@@ -1,9 +1,8 @@
 # 안녕하세요! 👋 저는 Backend 개발자 BJ 입니다.
 
-🌱 요즘 공부하는 것: Java, Spring, C++
-🔭 현재 진행 중인 프로젝트: Ulverse 백엔드
+🌱 요즘 공부하는 것: Java, SpringBoot
 💬 관심 있는 기술: 클린 코드, 백엔드 아키텍처
-📫 연락처: email@example.com
+📫 연락처: qudwnd1001@gmail.com
 🛠️ 사용 기술: Java, Spring Boot, C++, MySQL, oracle  
 
 ---
