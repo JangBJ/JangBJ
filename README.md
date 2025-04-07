@@ -26,8 +26,8 @@
 
 ---
 
-### 🔥 GitHub Stats
-![JangBJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangBJ&show_icons=true&theme=tokyonight)
+### 🔥 GitHub Status
+![JangBJ's GitHub status](https://github-readme-stats.vercel.app/api?username=JangBJ&show_icons=true&theme=tokyonight)
 
 ### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangBJ&layout=compact)
