@@ -19,7 +19,7 @@
 ## 📂 Projects
 - **Ulverse** – 커머스 백엔드 시스템
 - **Collection** – 자바 자료구조 공부
-- **Blog** – 블로그 시스템
+- **BJPost** – 게시판 공부
 - **Algorithm** - 자료구조 적응 연습
 
 📫 이메일: qudwnd1001@gmail.com
