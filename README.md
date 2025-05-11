@@ -1,9 +1,4 @@
-  <a title="JangBJ" href="https://github.com/JangBJ">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=h-beeen&desc=Back-End%20Developer&section=header&reversal=false&textBg=false&fontColor=ffffff&fontSize=100&fontAlign=74.5&animation=twinkling&descAlignY=64&descAlign=63" width="70%">
-      <img alt="Profile" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=h-beeen&desc=Back-End%20Developer&section=header&reversal=false&textBg=false&fontColor=000000&fontSize=100&fontAlign=74.5&animation=twinkling&descAlignY=64&descAlign=63" width="70%">
-    </picture>
-  </a>
+
 
 > "코드는 사람을 위해 작성되어야 한다."  
 > - Robert C. Martin
