@@ -23,11 +23,11 @@
 
 ## 📂 Projects
 - **Ulverse** – 커머스 백엔드 시스템
-- **Collection** – 자바 자료구조 공부
 - **BJPost** – 게시판 공부
-- **Algorithm** - 자료구조 적응 연습
+- **Algorithmm** - 알고리즘 공부
+- **Rento** - 실시간 관제 시스템
 
-📫 이메일: qudwnd1001@gmail.com
+📫 이메일: java.util.list@kakao.com
 
 ---
 
