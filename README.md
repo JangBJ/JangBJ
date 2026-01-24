@@ -8,7 +8,7 @@
 > "코드는 사람을 위해 작성되어야 한다."  
 > - Robert C. Martin
  
-백엔드 개발자 BJ입니다😎  
+### 백엔드 개발자 BJ입니다😎  
 
 
 ## 🔍 My Tech Stack 🔍
