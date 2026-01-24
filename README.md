@@ -23,7 +23,6 @@
 
 ## 📂 Projects
 - **Ulverse** – 커머스 백엔드 시스템
-- **BJPost** – 게시판 공부
 - **Algorithmm** - 알고리즘 공부
 - **Rento** - 실시간 관제 시스템
 
