@@ -9,7 +9,7 @@
 > - Robert C. Martin
  
 # 백엔드 개발자 BJ입니다😎  
-
+<a href="https://bjlog.pages.dev/"><img src="https://img.shields.io/badge/Blog-4a3159?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 ## 🔍 My Tech Stack 🔍
 
