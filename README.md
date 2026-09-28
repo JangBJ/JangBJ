@@ -9,6 +9,7 @@
 > - Robert C. Martin
  
 # 백엔드 개발자 BJ입니다😎  
+<a href="https://jangbj.github.io/"><img src="https://img.shields.io/badge/Portfolio-0b0d11?style=flat-square&logo=githubpages&logoColor=5ccfe6"/></a>
 <a href="https://bjlog.pages.dev/"><img src="https://img.shields.io/badge/Blog-4a3159?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 ## 🔍 My Tech Stack 🔍
@@ -22,9 +23,10 @@
 
 
 ## 📂 Projects
+- **[Portfolio](https://jangbj.github.io/)** - 프로젝트별 제작 과정을 챕터로 기록한 개발 노트
 - **Ulverse** – 커머스 백엔드 시스템
 - **Algorithmm** - 알고리즘 공부
-- **Rento** - 실시간 관제 시스템
+- **[Rento](https://jangbj.github.io/projects/rento/)** - 실시간 관제 시스템
 
 📫 이메일: java.util.list@kakao.com
 
@@ -46,4 +48,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
->
+-->
