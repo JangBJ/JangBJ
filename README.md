@@ -24,9 +24,10 @@
 
 ## 📂 Projects
 - **[Portfolio](https://jangbj.github.io/)** - 프로젝트별 제작 과정을 챕터로 기록한 개발 노트
-- **Ulverse** – 커머스 백엔드 시스템
-- **Algorithmm** - 알고리즘 공부
 - **[Rento](https://jangbj.github.io/projects/rento/)** - 실시간 관제 시스템
+- **[UIverse](https://jangbj.github.io/projects/uiverse/)** – 커머스 백엔드 시스템
+- **[날씨입다](https://jangbj.github.io/projects/nalssi-ipda/)** - 매일 아침 날씨·옷차림 알림 앱
+- **[Algorithmm](https://jangbj.github.io/projects/algorithmm/)** - 알고리즘 공부
 
 📫 이메일: java.util.list@kakao.com
 
