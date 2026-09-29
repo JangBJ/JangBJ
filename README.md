@@ -8,7 +8,7 @@
 > "코드는 사람을 위해 작성되어야 한다."  
 > - Robert C. Martin
  
-# 백엔드 개발자 BJ입니다😎  
+# 💻 백엔드 개발자 BJ입니다
 <a href="https://jangbj.github.io/"><img src="https://img.shields.io/badge/Portfolio-0b0d11?style=flat-square&logo=githubpages&logoColor=5ccfe6"/></a>
 <a href="https://bjlog.pages.dev/"><img src="https://img.shields.io/badge/Blog-4a3159?style=flat-square&logo=tistory&logoColor=white"/></a>
 
@@ -27,7 +27,6 @@
 - **[Rento](https://jangbj.github.io/projects/rento/)** - 실시간 관제 시스템
 - **[UIverse](https://jangbj.github.io/projects/uiverse/)** – 커머스 백엔드 시스템
 - **[날씨입다](https://jangbj.github.io/projects/nalssi-ipda/)** - 매일 아침 날씨·옷차림 알림 앱
-- **[Algorithmm](https://jangbj.github.io/projects/algorithmm/)** - 알고리즘 공부
 
 📫 이메일: java.util.list@kakao.com
 
