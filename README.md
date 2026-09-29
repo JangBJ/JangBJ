@@ -1,9 +1,9 @@
-<div align="center">
-  <a title="JangBJ" href="https://github.com/JangBJ">
-    <picture>
+<picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=JangBJ&desc=Back-End%20Developer&section=header&reversal=false&textBg=false&fontColor=ffffff&fontSize=100&fontAlign=74.5&animation=twinkling&descAlignY=64&descAlign=63" width="70%">
       <img alt="Profile" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=JangBJ&desc=Back-End%20Developer&section=header&reversal=false&textBg=false&fontColor=000000&fontSize=100&fontAlign=74.5&animation=twinkling&descAlignY=64&descAlign=63" width="70%">
-    </picture>
+</picture>
+<div align="center">
+  <a title="JangBJ" href="https://github.com/JangBJ">
   </a>
   <h3>💻 백엔드 개발자 BJ입니다</h3>
   <p>
