@@ -9,10 +9,9 @@
   <p>
     <a href="https://jangbj.github.io/"><img src="https://img.shields.io/badge/Portfolio-0e7490?style=flat-square&logo=githubpages&logoColor=white"/></a>
     <a href="https://bjlog.pages.dev/"><img src="https://img.shields.io/badge/Blog-4a3159?style=flat-square&logo=tistory&logoColor=white"/></a>
-  </p>
-</div>
-
-> "코드는 사람을 위해 작성되어야 한다."  
+  </p> 
+      
+> "코드는 사람을 위해 작성되어야 한다."   
 > — Robert C. Martin
 
 ## 🔍 Tech Stack
@@ -38,15 +37,18 @@
 
 ## 📫 Contact
 
-- **Email** — java.util.list@kakao.com
-- **Portfolio** — [jangbj.github.io](https://jangbj.github.io/)
-- **Blog** — [bjlog.pages.dev](https://bjlog.pages.dev/)
+**Email** — java.util.list@kakao.com  
+**Portfolio** — [jangbj.github.io](https://jangbj.github.io/)  
+**Blog** — [bjlog.pages.dev](https://bjlog.pages.dev/)
+</div>
 
+
+<!--
 ## 🔥 GitHub Stats
 
 ![JangBJ's GitHub status](https://github-readme-stats.vercel.app/api?username=JangBJ&show_icons=true&theme=tokyonight)
 
-<!--
+
 **JangBJ/JangBJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
