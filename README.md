@@ -8,7 +8,7 @@
   <h3>💻 백엔드 개발자 BJ입니다</h3>
   <p>
     <a href="https://jangbj.github.io/"><img src="https://img.shields.io/badge/Portfolio-0e7490?style=flat-square&logo=githubpages&logoColor=white"/></a>
-    <a href="https://bjlog.pages.dev/"><img src="https://img.shields.io/badge/Blog-4a3159?style=flat-square&logo=tistory&logoColor=white"/></a>
+    <a href="https://bjlog.pages.dev/"><img src="https://img.shields.io/badge/독서장-4a3159?style=flat-square"/></a>
     <a href="https://velog.io/@ng99/posts"><img src="https://img.shields.io/badge/Blog-4a3159?style=flat-square&logo=velog&logoColor=white"/></a>
   </p> 
       
